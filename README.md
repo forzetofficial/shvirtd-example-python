@@ -12,6 +12,18 @@
 
 ---
 
+Задача 4
+
+![img](img/img5.png)
+
+![img](img/img6.png)
+
+![img](img/img7.png)
+
+![img](img/img8.png)
+
+---
+
 Задача 6  
 
 ![img](img/img3.png)
